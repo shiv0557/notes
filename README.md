@@ -1,1 +1,1 @@
-# notes
+# this repo will contain all the useful notes about learning 
